@@ -1,0 +1,19 @@
+﻿# ==========================
+# Конфигурация проекта «Чат»
+# ==========================
+
+# Сетевые настройки
+ip=127.0.0.1
+port=5000
+
+# Путь к словарю для автодополнения
+dictionary=ru_words.txt
+
+# Настройки интерфейса
+language=ru
+show_timestamps=true
+max_message_length=200
+
+# Резервные настройки (на будущее)
+backup_enabled=false
+backup_path=backup/
